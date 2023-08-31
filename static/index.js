@@ -1,0 +1,1 @@
+console.log('hey this file in static folder so anyone camn see iy using this url')
