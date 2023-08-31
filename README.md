@@ -1,6 +1,6 @@
 # DanceWebsite_using_pug
 //command for download dependancies
-npm int
+npm init
 npm i express nodemon pug
 
 
